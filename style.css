@@ -8,6 +8,11 @@
     font-family: 'Bebas Neue', cursive;
 }
 
+.body{
+    background-color: 
+    #5B4003;
+} 
+
 .hero{
     background-image: url("./imagenes/CopaDelMundo.PNG");
     height: 55vh;
