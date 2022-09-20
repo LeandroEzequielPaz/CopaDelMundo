@@ -5,10 +5,16 @@
   box-sizing: border-box;
   font-family: "Bebas Neue";
 }
-*.body {
+
+.body {
   background-color: #5B4003;
 }
-*.body .hero {
+.body .hero {
   background-image: url("./imagenes/CopaDelMundo.PNG");
   height: 55vh;
-}/*# sourceMappingURL=stilo.css.map */
+}
+
+.copy{
+  display: flex;
+  justify-content: center;
+}
