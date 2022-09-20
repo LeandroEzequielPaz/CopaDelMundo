@@ -13,8 +13,7 @@
   background-image: url("./imagenes/CopaDelMundo.PNG");
   height: 55vh;
 }
+.fondo {
 
-.copy{
-  display: flex;
-  justify-content: center;
+  background-color: #5B4003;
 }

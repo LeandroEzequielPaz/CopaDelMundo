@@ -5,3 +5,8 @@
         background-image: url("./imagenes/CopaDelMundo.PNG");
         height: 55vh;
       }
+
+      .fondo {
+
+        background-color: #5B4003;
+      }
